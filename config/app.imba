@@ -105,20 +105,20 @@ export default {
 
 	resolvers: [
 		# Formidable Framework Service Resolvers...
-		BugsnagServiceResolver
-		RedisServiceResolver
-		MultipartServiceResolver
+		# BugsnagServiceResolver
+		# RedisServiceResolver
+		# MultipartServiceResolver
 		StaticContentServiceResolver
 		CookieServiceResolver
-		SessionMemoryStoreServiceResolver
-		SessionFileStoreServiceResolver
-		SessionServiceResolver
-		HelpersServiceResolver
+		# SessionMemoryStoreServiceResolver
+		# SessionFileStoreServiceResolver
+		# SessionServiceResolver
+		# HelpersServiceResolver
 		HashServiceResolver
 		LanguageServiceResolver
-		MailServiceResolver
-		PersonalAccessTokenServiceResolver
-		AuthenticationServiceResolver
+		# MailServiceResolver
+		# PersonalAccessTokenServiceResolver
+		# AuthenticationServiceResolver
 		CsrfServiceResolver
 		CorsServiceResolver
 		MaintenanceServiceResolver

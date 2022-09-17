@@ -13,5 +13,5 @@ export tag App
 			" | "
 			<a[fw:bold] route-to="/about"> "About"
 
-		<Home route="/*$">
+		<Home route="/">
 		<About route="/about">
